@@ -1,0 +1,10 @@
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 78\Week 8\PopulationDatabase\bin\Debug\PopulationDatabase.exe.config
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 78\Week 8\PopulationDatabase\bin\Debug\PopulationDatabase.exe
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 78\Week 8\PopulationDatabase\bin\Debug\PopulationDatabase.pdb
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 78\Week 8\PopulationDatabase\obj\Debug\PopulationDatabase.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 78\Week 8\PopulationDatabase\obj\Debug\PopulationDatabase.Properties.Resources.resources
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 78\Week 8\PopulationDatabase\obj\Debug\PopulationDatabase.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 78\Week 8\PopulationDatabase\obj\Debug\PopulationDatabase.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 78\Week 8\PopulationDatabase\obj\Debug\PopulationDatabase.exe
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 78\Week 8\PopulationDatabase\obj\Debug\PopulationDatabase.pdb
+C:\Users\DELL\Desktop\School\Fall 2019\C# I\Week 78\Week 8\PopulationDatabase\obj\Debug\PopulationDatabase.Form1.resources
